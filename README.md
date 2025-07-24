@@ -1,6 +1,6 @@
 # 🪙 Gold Recovery Optimization
 
-![Gold Recovery Optimization Thumbnail](gold_thumbnail.png)
+![Gold Recovery Optimization Thumbnail](gold_recovery.png)
 
 This project focuses on maximizing gold extraction efficiency in mining operations using data from industrial ore processing.
 
